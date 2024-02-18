@@ -1,8 +1,33 @@
 html, body, main{
     height: 100%;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body{
     background-image: url(../img/fondo.png);
     background-size: cover;
+}
+
+.portada{
+    background-image: url(../img/header.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 50%;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.sombra{
+    box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.61);
+}
+
+.line-height-1{
+    line-height: 35px;
+}
+
+.cristalTipos{
+    background-color: rgba(0, 0, 0, 0.637);
 }
