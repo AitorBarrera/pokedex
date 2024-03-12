@@ -1,0 +1,7 @@
+﻿URL image Pokemon:
+
+
+https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png
+
+
+donde 001 es el dex del pokemon

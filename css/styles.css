@@ -4,8 +4,10 @@ html, body, main{
 }
 
 body{
+    background-color: black;
     background-image: url(../img/fondo.png);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .portada{
